@@ -1,0 +1,9 @@
+bazel-bin
+bazel-genfiles
+bazel-java-maven
+bazel-out
+bazel-testlogs
+__pycache__
+sbom.json
+bazel_deps.xml
+bazel2sbom
